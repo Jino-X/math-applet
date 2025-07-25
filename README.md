@@ -2,7 +2,7 @@
 
 An interactive educational platform featuring math concept visualization applets built with Next.js, React, Tailwind CSS, and Framer Motion.
 
-![Math Visualizer Preview](https://via.placeholder.com/800x400?text=Math+Visualizer+Preview)
+**Live Demo:** [https://math-applet.vercel.app/](https://math-applet.vercel.app/)
 
 ## Features
 
